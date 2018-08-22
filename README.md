@@ -1,1 +1,3 @@
 # vocabularyDictation
+
+I am preparing IELTS test, my writting sucks, so I make myself a dictation app...
